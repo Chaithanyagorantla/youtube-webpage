@@ -19,6 +19,7 @@ section{
     align-items: start;
     flex-direction: column;
     text-align: left;
+    cursor: pointer;
     /* margin-right: 100px; */
     /* padding-left: 10px; */
     
@@ -53,7 +54,7 @@ section{
     display: flex;
     justify-content:center;
     align-items: center;
-    
+    cursor: pointer;
     
     
     /* padding: 10px; */
